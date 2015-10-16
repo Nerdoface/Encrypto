@@ -50,7 +50,7 @@ ifstream bestand(loc);
  cout << "Het bestand: " << volBestand;
  return volBestand;
 }
-
+// Deze functie encrypt het bestand. Voegt aan alle ASCII waardes de input waarde toe en returned de nieuwe string
 string encrypt(string inhoud, int encWaarde)
 {
 
@@ -68,7 +68,7 @@ string encrypt(string inhoud, int encWaarde)
  return encryptie;
 
 }
-
+// Deze functie schrijft de geencrypte string naar een nieuw bestand in de uitvoer directory, met de naam enc-jouwbestand.txt
 void schrijfBestand(string shit, char* oudeNaam)
 {
 
