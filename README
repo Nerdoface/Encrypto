@@ -1,5 +1,5 @@
 Dit is encrypto. Je passed het de locatie van een .txt bestand, en het encrypt de inhoud ervan volgens een bepaald patroon.
-Niet echt gebruiken, de output is complete bullshit en dit project is puur bedoeld geweest om mijn C++ kennis weer wat op te frissen na 
+Niet echt gebruiken, de output is complete bullshit en dit project is puur bedoeld geweest om mijn C++ (en git) kennis weer wat op te frissen na 
 een aantal maanden van downtime.
 
 De output is enc-naambestand.txt
